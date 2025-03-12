@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    flex-direction: column;
+}
+ .titre{
+    height: 10vw;
+    width: 20vw;
+    background: black;
+ }
+ .titre h1{
+    font-size: 2vw;
+    color: white;
+    text-align: center;
+    
+ }
